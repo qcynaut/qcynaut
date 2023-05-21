@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ramdani 💻.
 
-I'm a Junior Full Stack Developer 👨‍💻 who is passionate about technologies and love to learn new things. I'm currently working on my personal open source project and will be happy to learn and collaborate with others.
+I'm a junior full-stack developer 👨‍💻 who is passionate about technology and loves to learn new things. Currently, I'm working on my personal open-source project and I'm excited to learn and collaborate with others
 
 ## 📖 Random Quote
 
@@ -13,4 +13,4 @@ These are some of the technologies and tools that I use:
 
 ![Tech Stack](https://skillicons.dev/icons?i=rust,zig,wasm,c,cpp,kotlin,dart,go,swift,nodejs,typescript,javascript,python,solidity,deno,react,angular,vue,svelte,next,remix,gatsby,nuxtjs,webpack,vite,tailwindcss,css,scss,html,vercel,firebase,supabase,aws,azure,gcp,heroku,netlify,docker,kubernetes,cloudflare,nginx,postgresql,mongodb,redis,mysql,graphql,flutter,tauri,git,github,gitlab,androidstudio,vscode,cmake,gradle,django,flask,figma,godot,md,postman,pytorch,tensorflow)
 
-The list above maybe a bit overwhelming, but I'm not an expert in all of them. I'm still learning and by adding them to the list, I hope I will be able to master them one day.
+The list above may be a bit overwhelming, as I'm not an expert in all of those technologies. However, I'm constantly learning and aspiring to master each one of them. By including them in the list, I hope to chart my progress and eventually become proficient in each area.
