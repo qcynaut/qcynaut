@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ramdani 💻.
 
-I'm a junior full-stack developer 👨‍💻 who is passionate about technology and loves to learn new things. Currently, I'm working on my personal open-source project and I'm excited to learn and collaborate with others
+I'm a junior full-stack developer 👨‍💻 who is passionate about technology and loves to learn new things.
 
 ## 📖 Random Quote
 
